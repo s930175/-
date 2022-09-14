@@ -1,0 +1,14 @@
+D:\C#\My test 2\飛行棋\bin\Debug\netcoreapp3.1\飛行棋.exe
+D:\C#\My test 2\飛行棋\bin\Debug\netcoreapp3.1\飛行棋.deps.json
+D:\C#\My test 2\飛行棋\bin\Debug\netcoreapp3.1\飛行棋.runtimeconfig.json
+D:\C#\My test 2\飛行棋\bin\Debug\netcoreapp3.1\飛行棋.runtimeconfig.dev.json
+D:\C#\My test 2\飛行棋\bin\Debug\netcoreapp3.1\飛行棋.dll
+D:\C#\My test 2\飛行棋\bin\Debug\netcoreapp3.1\飛行棋.pdb
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.csproj.AssemblyReference.cache
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.AssemblyInfoInputs.cache
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.AssemblyInfo.cs
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.csproj.CoreCompileInputs.cache
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.dll
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.pdb
+D:\C#\My test 2\飛行棋\obj\Debug\netcoreapp3.1\飛行棋.genruntimeconfig.cache
